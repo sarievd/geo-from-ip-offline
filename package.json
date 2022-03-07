@@ -1,0 +1,43 @@
+{
+  "name": "geo-from-ip-offline",
+  "version": "1.0.0",
+  "description": "Library for obtaining information about the country, city or continent by IP",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "debug": "^4.3.3",
+    "maxmind": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarievd/geo-from-ip-offline.git"
+  },
+  "keywords": [
+    "geo",
+    "offline",
+    "offline geo",
+    "geo from ip",
+    "ip to geo",
+    "city from ip",
+    "country from ip",
+    "location from ip",
+    "cintinent from ip",
+    "validate ip",
+    "ip"
+  ],
+  "author": "dsariev <sariev.d4@gmail.com> (https://github.com/sarievd/geo-from-ip-offline)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12"
+  },
+  "bugs": {
+    "url": "https://github.com/sarievd/geo-from-ip-offline/issues"
+  },
+  "homepage": "https://github.com/sarievd/geo-from-ip-offline#readme"
+}
